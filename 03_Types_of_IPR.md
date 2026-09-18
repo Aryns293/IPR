@@ -731,32 +731,61 @@ And for the smartphone example:
 
 If you remember these three blocks, you can reconstruct most of the answers from the slides during the exam.
 
-
 ## 🧠 Ultimate Mindmap: Types of IPR
 ```mermaid
 mindmap
   root((Types of IPR))
+    Concept
+      IP is creation
+      IPR is legal right
     Patent
-      Inventions
-      Novelty
-      Inventive Step
-      Industrial Applicability
-      20 Years
+      Protects Inventions
+      Products & Processes
+      Criteria
+        Novelty
+        Inventive Step
+        Industrial Applicability
+      Rights
+        Manufacture
+        Use & Sell
+        License & Assign
+      20 Years Term
     Trademark
       Brand Identity
-      Logos
-      Names
+      Logos, Names, Symbols
+      Functions
+        Identification
+        Differentiation
+        Quality Association
+        Goodwill
+        Legal Protection
       10 Years Renewable
     Copyright
       Creative Expression
-      Books, Music, Software
+      Books, Music, Films
+      Software
+        Source Code
+        Object Code
+      Idea vs Expression
+        Protects expression not idea
+      Arises Automatically
       Life + 60 Years
     Industrial Design
       Visual Appearance
-      Shape, Pattern
+      How it looks
+      Shape, Pattern, Color
+      Excludes technical functions
       10 + 5 Years
-    Others
-      Geographical Indications
-      Trade Secrets
-      Plant Varieties
+    Other Forms
+      Geographical Indication
+        Place of origin
+      Trade Secret
+      Plant Variety
+      Semiconductor Layout
+    Multiple IPRs in One Product
+      Example Smartphone
+        Tech = Patent
+        Brand = Trademark
+        Code = Copyright
+        Look = Design
 ```
