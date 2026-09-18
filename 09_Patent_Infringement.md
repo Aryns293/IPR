@@ -553,16 +553,22 @@ And finally:
 That gives you the complete conceptual structure of all 18 slides!
 
 
-## 🧠 Ultimate Mindmap: Patent Infringement
+## 🧠 Ultimate Mindmap 1: Patent Infringement
 ```mermaid
 mindmap
   root((Infringement))
+    Unauthorized Acts
+      Making
+      Using
+      Selling
+      Importing
     Types
       Direct
       Indirect
       Literal
       Equivalents
-    Action
+    Legal Action
+      High Court
       Injunction
       Damages
       Account of Profits
@@ -571,10 +577,64 @@ mindmap
       No Infringement
       Exceptions
       Exhaustion
-    Patent Agents
-      Prepare & File
-      Prosecution
-    Software & AI
-      Section 3k
+```
+
+## 🧠 Ultimate Mindmap 2: Patent Agents
+```mermaid
+mindmap
+  root((Patent Agents))
+    Role
+      Represent before Patent Office
+      Not Court Litigation
+    Functions
+      Prepare Applications
+      Draft Specifications
+      File
+      Communicate
+      Respond to FER
+    Qualifications
+      Citizenship
+      Age
+      Technical Degree
+      Agent Examination
+```
+
+## 🧠 Ultimate Mindmap 3: Software and AI Patents
+```mermaid
+mindmap
+  root((Software and AI))
+    Section 3k Exclusions
+      Mathematical Method
+      Business Method
+      Algorithm
+      Computer Program per se
+    Patentable Software
       Technical Contribution
+      Technical Effect
+      Controls Industrial Machine
+      Improves Hardware
+    Copyright vs Patent
+      Copyright Protects Source Code
+      Patent Protects Technical Solution
+```
+
+## 🧠 Ultimate Mindmap 4: Patent Lifecycle
+```mermaid
+mindmap
+  root((Patent Lifecycle))
+    1 Preparation
+      Idea
+      Prior Art Search
+    2 Filing
+      Provisional
+      Complete
+    3 Processing
+      Publication
+      Examination
+      FER Response
+    4 Post Grant
+      Commercialization
+      Licensing
+      Renewal
+      Expiry
 ```
