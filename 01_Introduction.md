@@ -47,7 +47,7 @@ These rights give the owner certain **exclusive rights** over the use, productio
 **Basic idea**
 ```mermaid
 flowchart TD
-    A[HUMAN MIND] --> B[CREATION / IDEA]
+    A[HUMAN MIND] --> B["CREATION / IDEA"]
     B --> C[INTELLECTUAL PROPERTY]
     C --> D[LEGAL PROTECTION]
     D --> E[IPR]
@@ -122,8 +122,8 @@ flowchart TD
     A --> C[Reward]
     A --> D[Innovation]
     B --> E[Legal rights]
-    C --> F[Income / royalty]
-    D --> G[R&D encouraged]
+    C --> F["Income / royalty"]
+    D --> G["R&D encouraged"]
 ```
 
 IPR can provide:
@@ -262,8 +262,8 @@ flowchart TD
 *Example - Apple logo → Trademark:*
 ```mermaid
 flowchart TD
-    A[Brand / Logo] --> B[Trademark]
-    B --> C[Identifies source of goods/services]
+    A["Brand / Logo"] --> B[Trademark]
+    B --> C["Identifies source of goods/services"]
 ```
 **Keyword:** **Trademark → Brand identity**
 
@@ -362,11 +362,11 @@ Imagine a company creates a new product:
 flowchart TD
     A[New invention]
     A --> B[Technology → PATENT]
-    A --> C[Brand name/logo → TRADEMARK]
-    A --> D[Software/content → COPYRIGHT]
+    A --> C["Brand name/logo → TRADEMARK"]
+    A --> D["Software/content → COPYRIGHT"]
     A --> E[Product appearance → INDUSTRIAL DESIGN]
     A --> F[Region-associated product → GI]
-    A --> G[Secret formula/process → TRADE SECRET]
+    A --> G["Secret formula/process → TRADE SECRET"]
 ```
 *This diagram is extremely useful for remembering the entire chapter.*
 
@@ -458,7 +458,7 @@ IP law provides the legal framework for addressing **unauthorized copying and ex
 This is probably the **single best diagram** to reproduce in an exam:
 ```mermaid
 flowchart TD
-    A[HUMAN MIND] --> B[CREATION / INNOVATION]
+    A[HUMAN MIND] --> B["CREATION / INNOVATION"]
     B --> C[INTELLECTUAL PROPERTY]
     C --> D[Invention]
     C --> E[Creative Work]
@@ -534,7 +534,7 @@ flowchart TD
 ```mermaid
 flowchart TD
     A[New invention → PATENT]
-    B[Secret formula/process → TRADE SECRET]
+    B["Secret formula/process → TRADE SECRET"]
 ```
 
 ---

@@ -208,7 +208,7 @@ flowchart TD
 * **Compulsory:**
 ```mermaid
 flowchart TD
-    A[Statutory conditions\nCompetent authority] -->|Compulsory License| B[Third Party]
+    A["Statutory conditions\nCompetent authority"] -->|Compulsory License| B[Third Party]
 ```
 
 ## 15. PURPOSE OF LICENSING
@@ -281,7 +281,7 @@ The slide gives this exact flow:
 ```mermaid
 flowchart TD
     A[Patentee requests surrender] --> B[Controller examines the request]
-    B --> C[Opportunity to interested persons\nto oppose]
+    B --> C["Opportunity to interested persons\nto oppose"]
     C --> D[Decision according to the Act]
 ```
 Let's understand each step:
@@ -368,7 +368,7 @@ The slide states:
 flowchart TD
     A[OLDER TEXTBOOKS] --> B[IPAB]
     B --> C[Abolished in 2021]
-    C --> D[Relevant functions transferred\nprimarily to HIGH COURTS]
+    C --> D["Relevant functions transferred\nprimarily to HIGH COURTS"]
 ```
 
 **Key sentence**
@@ -386,8 +386,8 @@ flowchart TD
     B --> C[PRODUCT PATENT]
     B --> D[PROCESS PATENT]
     
-    C --> E[Making, Using,\nOffering for sale,\nSelling, Importing\nin India]
-    D --> F[Use of patented\nprocess + certain\ndealings with\ndirectly obtained products]
+    C --> E["Making, Using,\nOffering for sale,\nSelling, Importing\nin India"]
+    D --> F["Use of patented\nprocess + certain\ndealings with\ndirectly obtained products"]
     
     E --> G[COMMERCIAL RIGHTS]
     F --> G
@@ -395,8 +395,8 @@ flowchart TD
     G --> H[Commercialize]
     G --> I[License]
     G --> J[Assign]
-    G --> K[Business\nasset]
-    G --> L[Technology\ntransfer]
+    G --> K["Business\nasset"]
+    G --> L["Technology\ntransfer"]
     
     J --> M[TRANSFER OF PATENT]
     I --> M
@@ -410,8 +410,8 @@ flowchart TD
     P --> R[New owner]
     Q --> S[Permission to use]
     
-    S --> T[VOLUNTARY\nLICENSE]
-    S --> U[COMPULSORY\nLICENSE]
+    S --> T["VOLUNTARY\nLICENSE"]
+    S --> U["COMPULSORY\nLICENSE"]
     
     U --> V[Statutory conditions]
     V --> W[Public Interest]
@@ -424,16 +424,16 @@ flowchart TD
     A --> C[REVOCATION]
     
     B --> D[Patentee initiates]
-    C --> E[Cancellation of\ngranted patent]
+    C --> E["Cancellation of\ngranted patent"]
     
     D --> F[Controller examines]
-    E --> G[Specified statutory\ngrounds]
+    E --> G["Specified statutory\ngrounds"]
     
-    F --> H[Interested persons\ncan oppose]
+    F --> H["Interested persons\ncan oppose"]
     G --> I[8 grounds]
     
-    H --> J[Decision according\nto the Act]
-    I --> K[High Court under\ncurrent framework]
+    H --> J["Decision according\nto the Act"]
+    I --> K["High Court under\ncurrent framework"]
 ```
 
 ## 28. THE BIGGEST CONFUSION — ASSIGNMENT, LICENSING, SURRENDER, REVOCATION
@@ -455,8 +455,8 @@ Memorize this table:
 ## 29. TYPES OF LICENSE — SUPER EASY
 ```mermaid
 flowchart TD
-    A[LICENSE] --> B[WHO GETS IT?]
-    A --> C[HOW GRANTED?]
+    A[LICENSE] --> B["WHO GETS IT?"]
+    A --> C["HOW GRANTED?"]
     
     B --> D[Exclusive]
     B --> E[Non-exclusive]
@@ -464,10 +464,10 @@ flowchart TD
     C --> F[Voluntary]
     C --> G[Compulsory]
     
-    D --> D1[ONE\nLICENSEE]
-    E --> E1[MULTIPLE\nLICENSEES]
-    F --> F1[OWNER\nVOLUNTARY]
-    G --> G1[STATUTORY\nCONDITIONS]
+    D --> D1["ONE\nLICENSEE"]
+    E --> E1["MULTIPLE\nLICENSEES"]
+    F --> F1["OWNER\nVOLUNTARY"]
+    G --> G1["STATUTORY\nCONDITIONS"]
 ```
 
 **Memorize:**
@@ -544,7 +544,7 @@ Its purpose is to balance:
 ```mermaid
 flowchart TD
     A[Patentee requests surrender] --> B[Controller examines request]
-    B --> C[Interested persons get opportunity\nto oppose]
+    B --> C["Interested persons get opportunity\nto oppose"]
     C --> D[Decision according to the Act]
 ```
 

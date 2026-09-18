@@ -50,7 +50,7 @@ IP protection can encourage organizations and researchers to invest in **Researc
 **Without effective protection:**
 ```mermaid
 flowchart TD
-    A[R&D Investment]
+    A["R&D Investment"]
     A --> B[New Innovation]
     B --> C[Easy unauthorized copying]
     C --> D[Higher commercial risk]
@@ -59,12 +59,12 @@ flowchart TD
 **With IP protection:**
 ```mermaid
 flowchart TD
-    A[R&D Investment]
+    A["R&D Investment"]
     A --> B[New Innovation]
     B --> C[IP Protection]
-    C --> D[Commercialization / Licensing]
+    C --> D["Commercialization / Licensing"]
     D --> E[Potential Economic Return]
-    E --> F[Further R&D]
+    E --> F["Further R&D"]
 ```
 
 > ⭐️ **Key Point**
@@ -146,7 +146,7 @@ flowchart TD
     A[Research]
     A --> B[Innovation]
     B --> C[Competitors may copy]
-    C --> D[R&D investment becomes risky]
+    C --> D["R&D investment becomes risky"]
     D --> E[Less commercial benefit for innovator]
 ```
 
@@ -156,9 +156,9 @@ flowchart TD
     A[Research]
     A --> B[Innovation]
     B --> C[IP Protection]
-    C --> D[Commercialization / Licensing]
+    C --> D["Commercialization / Licensing"]
     D --> E[Potential Economic Benefit]
-    E --> F[Further Investment in R&D]
+    E --> F["Further Investment in R&D"]
 ```
 
 **Main Benefits**
@@ -235,7 +235,7 @@ flowchart TD
     A[University]
     A --> B[Research]
     B --> C[New Technology]
-    C --> D[Patent / Other IP Protection]
+    C --> D["Patent / Other IP Protection"]
     D --> E[License]
     E --> F[Industry]
     F --> G[Commercial Product]
@@ -432,7 +432,7 @@ flowchart TD
     E --> G
     F --> G
     
-    G --> H[CONTROL / COMMERCIALIZATION]
+    G --> H["CONTROL / COMMERCIALIZATION"]
     
     H --> I[Licensing]
     H --> J[Royalties]
@@ -442,8 +442,8 @@ flowchart TD
     J --> L
     K --> L
     
-    L --> M[Innovation + R&D + Technology Transfer]
-    M --> N[Economic & Technological Development]
+    L --> M["Innovation + R&D + Technology Transfer"]
+    M --> N["Economic & Technological Development"]
 ```
 
 ## 14. Complete Importance of IPR — One Diagram
@@ -458,8 +458,8 @@ flowchart TD
     A --> D[Economic Benefits]
     
     B --> E[Prevent unauthorized use]
-    C --> F[Encourage R&D & creativity]
-    D --> G[Licensing / Royalties / Sales]
+    C --> F["Encourage R&D & creativity"]
+    D --> G["Licensing / Royalties / Sales"]
     
     E --> H[Competitive Advantage]
     F --> H

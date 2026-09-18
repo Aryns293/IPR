@@ -60,7 +60,7 @@ The major forms of Intellectual Property Rights include:
 flowchart TD
     A[IPR]
     A --> B[Industrial Property]
-    A --> C[Copyright & Related Rights]
+    A --> C["Copyright & Related Rights"]
     A --> D[Other Forms]
     
     B --> E[Patent]
@@ -137,9 +137,9 @@ The invention must be **capable of being made or used in industry**.
 ```mermaid
 flowchart TD
     A[PATENTABILITY]
-    B[NEW?] --> C[NOVELTY]
-    D[NON-OBVIOUS?] --> E[INVENTIVE STEP]
-    F[USEFUL IN INDUSTRY?] --> G[INDUSTRIAL APPLICABILITY]
+    B["NEW?"] --> C[NOVELTY]
+    D["NON-OBVIOUS?"] --> E[INVENTIVE STEP]
+    F["USEFUL IN INDUSTRY?"] --> G[INDUSTRIAL APPLICABILITY]
 ```
 
 **Remember: N + I + I**
@@ -330,7 +330,7 @@ flowchart TD
     B --> E[Communication]
     C --> F[Adaptation]
     D --> G[Translation]
-    F --> H[Moral Rights\nwhere applicable]
+    F --> H["Moral Rights\nwhere applicable"]
 ```
 
 ## 17. Copyright Example — Book
@@ -416,9 +416,9 @@ Consider a mobile phone.
 ```mermaid
 flowchart TD
     A[MOBILE PHONE]
-    A --> B[Internal\nTechnology]
-    A --> C[Software\nCode]
-    A --> D[External\nAppearance]
+    A --> B["Internal\nTechnology"]
+    A --> C["Software\nCode"]
+    A --> D["External\nAppearance"]
     B --> E[Patent]
     C --> F[Copyright]
     D --> G[Industrial Design]
@@ -453,14 +453,14 @@ Industrial design generally does **not** protect:
 Suppose a phone has a new camera mechanism.
 ```mermaid
 flowchart TD
-    A[Unique camera mechanism] --> B[Technical / functional feature]
+    A[Unique camera mechanism] --> B["Technical / functional feature"]
     B --> C[PATENT]
 ```
 
 But if the phone has a unique external appearance:
 ```mermaid
 flowchart TD
-    A[Unique external appearance] --> B[Visual / aesthetic feature]
+    A[Unique external appearance] --> B["Visual / aesthetic feature"]
     B --> C[INDUSTRIAL DESIGN]
 ```
 
@@ -520,7 +520,7 @@ flowchart TD
     A --> D[How it looks]
     B --> E[PATENT]
     C --> F[TRADEMARK]
-    C --> G[Creative/code]
+    C --> G["Creative/code"]
     G --> H[COPYRIGHT]
     D --> I[INDUSTRIAL DESIGN]
 ```
@@ -577,7 +577,7 @@ Protects **original creative expression**.
 flowchart TD
     A[APPLE]
     A --> B["Brand identity -> TRADEMARK"]
-    A --> C[Apple's software/code]
+    A --> C["Apple's software/code"]
     C --> D["Creative expression -> COPYRIGHT"]
 ```
 
@@ -590,11 +590,11 @@ flowchart TD
     A[SMARTPHONE]
     A --> B[Technical invention]
     A --> C[Brand identity]
-    A --> D[Appearance/design]
+    A --> D["Appearance/design"]
     B --> E[PATENT]
     C --> F[TRADEMARK]
     D --> G[INDUSTRIAL DESIGN]
-    E --> H[Software / creative expression]
+    E --> H["Software / creative expression"]
     H --> I[COPYRIGHT]
 ```
 Therefore, **different aspects of the same product can be protected by different IPRs.**

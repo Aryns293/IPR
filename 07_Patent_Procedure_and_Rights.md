@@ -142,8 +142,8 @@ flowchart TD
     D --> E[PUBLICATION]
     E --> F[REQUEST FOR EXAMINATION]
     F --> G[EXAMINATION]
-    G --> H[FER / OBJECTIONS]
-    H --> I[RESPONSE / HEARING]
+    G --> H["FER / OBJECTIONS"]
+    H --> I["RESPONSE / HEARING"]
     I --> J[GRANT OR REFUSAL]
 ```
 
@@ -393,8 +393,8 @@ The applicant may:
 flowchart TD
     A[EXAMINATION] --> B[FER]
     B --> C[OBJECTIONS]
-    C --> D[Amend claims\nSubmit args\nGive evidence\nHearing]
-    D --> E[GRANT / REFUSAL]
+    C --> D["Amend claims\nSubmit args\nGive evidence\nHearing"]
+    D --> E["GRANT / REFUSAL"]
 ```
 
 ---
@@ -436,23 +436,23 @@ flowchart TD
     B --> C[CONDITIONS]
     B --> D[EXCLUSIONS]
     
-    C --> C1[New / Novelty\nInventive Step\nIndustrial Application]
-    D --> D1[Section 3\nSection 4\nAtomic Energy]
+    C --> C1["New / Novelty\nInventive Step\nIndustrial Application"]
+    D --> D1["Section 3\nSection 4\nAtomic Energy"]
     
     C1 --> E[IDENTIFY INVENTION]
     E --> F[PRIOR-ART SEARCH]
     F --> G[PREPARE APPLICATION]
     G --> H[FILE APPLICATION]
-    H --> I[PUBLICATION\n(18 months)]
-    I --> J[RFE\nRequest for Examination]
+    H --> I["PUBLICATION\n(18 months)"]
+    I --> J["RFE\nRequest for Examination"]
     J --> K[EXAMINATION]
-    K --> L[FER\nFirst Examination Report]
+    K --> L["FER\nFirst Examination Report"]
     
     L --> M[Objections]
     L --> N[No issue]
     
-    M --> O[Amend / Arguments / Evidence / Hearing]
-    O --> P[GRANT / REFUSAL]
+    M --> O["Amend / Arguments / Evidence / Hearing"]
+    O --> P["GRANT / REFUSAL"]
     N --> P
     
     P --> Q[PATENT GRANTED]

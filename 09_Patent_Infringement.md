@@ -121,8 +121,8 @@ A defendant can challenge:
 Patent infringement litigation involves:
 ```mermaid
 flowchart TD
-    A[PATENT INFRINGEMENT LITIGATION] --> B[Infringement\nAnalysis]
-    A --> C[Patent Validity\nAnalysis]
+    A[PATENT INFRINGEMENT LITIGATION] --> B["Infringement\nAnalysis"]
+    A --> C["Patent Validity\nAnalysis"]
 ```
 
 So there are **two major questions:**
@@ -188,7 +188,7 @@ This is an important comparison.
 ```mermaid
 flowchart TD
     A[PATENT MATTERS] --> B[PATENT AGENT]
-    A --> C[ADVOCATE/LAWYER]
+    A --> C["ADVOCATE/LAWYER"]
     B --> D["Patent Office\n|\nDrafting / Filing\nProsecution"]
     C --> E["Court\n|\nLitigation\nCourt proceedings"]
 ```
@@ -230,7 +230,7 @@ So:
 ```mermaid
 flowchart TD
     A[SOFTWARE] --> B[Its expression]
-    B --> C[Source/Object code + Documentation]
+    B --> C["Source/Object code + Documentation"]
     C --> D[COPYRIGHT]
 ```
 
@@ -270,9 +270,9 @@ It does **not** depend merely on adding words such as: *"computer implemented"*
 Don't memorize "software = patentable." Remember:
 ```mermaid
 flowchart TD
-    A[Software] --> B[Mere program / algorithm]
+    A[Software] --> B["Mere program / algorithm"]
     B --> C[Generally not patentable]
-    A --> D[Technical contribution/effect\n+\nOther requirements]
+    A --> D["Technical contribution/effect\n+\nOther requirements"]
     D --> E[May potentially be patentable]
 ```
 
@@ -297,7 +297,7 @@ The slide lists:
 **Key Principle ⭐️**
 ```mermaid
 flowchart TD
-    A[AI\n+\nTechnical Contribution\n+\nPatentability Requirements] --> B[Patentability analysis]
+    A["AI\n+\nTechnical Contribution\n+\nPatentability Requirements"] --> B[Patentability analysis]
 ```
 
 🧠 **Memory Trick**
@@ -314,15 +314,15 @@ This is one of the easiest things to score marks on if you remember the sequence
 ```mermaid
 flowchart TD
     A[IDEA] --> B[PRIOR-ART SEARCH]
-    B --> C[PROVISIONAL / COMPLETE APPLICATION]
+    B --> C["PROVISIONAL / COMPLETE APPLICATION"]
     C --> D[FILING]
     D --> E[PUBLICATION]
     E --> F[EXAMINATION]
-    F --> G[FER / RESPONSE]
+    F --> G["FER / RESPONSE"]
     G --> H[GRANT]
-    H --> I[COMMERCIALIZATION / LICENSING]
+    H --> I["COMMERCIALIZATION / LICENSING"]
     I --> J[RENEWAL]
-    J --> K[EXPIRY / POSSIBLE EARLIER TERMINATION]
+    J --> K["EXPIRY / POSSIBLE EARLIER TERMINATION"]
 ```
 
 **What is the overall idea?**
@@ -419,9 +419,9 @@ flowchart TD
     A --> C[COMPANIES]
     A --> D[SOCIETY]
     
-    B --> B1[Legal protection\nCommercialization\nLicensing\nRecognition\nTechnology licensing\nMarket differentiation]
-    C --> C1[Competitive advantage\nInvestment attraction]
-    D --> D1[Knowledge disclosed\nInnovation encouraged\nNew tech]
+    B --> B1["Legal protection\nCommercialization\nLicensing\nRecognition\nTechnology licensing\nMarket differentiation"]
+    C --> C1["Competitive advantage\nInvestment attraction"]
+    D --> D1["Knowledge disclosed\nInnovation encouraged\nNew tech"]
 ```
 
 ## 18. Limitations of Patents

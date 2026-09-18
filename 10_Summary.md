@@ -10,10 +10,10 @@ This document is your **single source of truth** for the entire Intellectual Pro
 flowchart TD
     A[INTELLECTUAL PROPERTY RIGHTS]
     
-    A --> B[1. BASICS & TYPES]
-    A --> C[2. HISTORY & AUTHORITIES]
+    A --> B["1. BASICS & TYPES"]
+    A --> C["2. HISTORY & AUTHORITIES"]
     A --> D[3. PATENTS IN-DEPTH]
-    A --> E[4. INFRINGEMENT & POST-GRANT]
+    A --> E["4. INFRINGEMENT & POST-GRANT"]
 
     %% Section 1
     B --> B1[Types of IPR]
@@ -37,17 +37,17 @@ flowchart TD
 
     %% Section 3
     D --> D1[Patentability]
-    D1 --> NII[Novelty + Inventive Step + Industrial App]
+    D1 --> NII["Novelty + Inventive Step + Industrial App"]
     D --> D2[Not Patentable]
-    D2 --> Sec3[Sec 3 & 4 Exclusions]
+    D2 --> Sec3["Sec 3 & 4 Exclusions"]
     D --> D3[Procedure]
     D3 --> Proc["File -> Publish -> Examine -> Grant"]
 
     %% Section 4
     E --> E1[Transfer]
-    E1 --> Trans[Assignment & Licensing]
+    E1 --> Trans["Assignment & Licensing"]
     E --> E2[Ending Rights]
-    E2 --> End[Revocation & Surrender]
+    E2 --> End["Revocation & Surrender"]
     E --> E3[Infringement]
     E3 --> Inf["Direct/Indirect -> Injunction/Damages"]
 ```

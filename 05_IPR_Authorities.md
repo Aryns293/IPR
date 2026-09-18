@@ -30,7 +30,7 @@ flowchart TD
     A --> C[INDIA]
     
     B --> D[WIPO]
-    B --> E[WTO/TRIPS]
+    B --> E["WTO/TRIPS"]
     
     C --> F[DPIIT]
     C --> G[Copyright Office]
@@ -126,7 +126,7 @@ flowchart TD
     A --> E[Geographical Indications]
     A --> F[Industrial Designs]
     A --> G[Layout-designs of Integrated Circuits]
-    A --> H[Undisclosed Information / Trade Secrets]
+    A --> H["Undisclosed Information / Trade Secrets"]
 ```
 
 **Important list for exam**
@@ -168,9 +168,9 @@ At the Indian level, the important structure in your slides is:
 
 ```mermaid
 flowchart TD
-    A[DPIIT\nDepartment for Promotion of Industry and Internal Trade]
+    A["DPIIT\nDepartment for Promotion of Industry and Internal Trade"]
     
-    A --> B[CGPDTM\nController General of Patents, Designs & Trade Marks]
+    A --> B["CGPDTM\nController General of Patents, Designs & Trade Marks"]
     A -.-> H[Copyright Office]
     
     B --> C[IP Offices]
@@ -269,7 +269,7 @@ Examples: Brand name, Logo, Symbol, Service mark.
 ```mermaid
 flowchart TD
     A[Trademark Application] --> B[Examination]
-    B --> C[Publication / Opposition]
+    B --> C["Publication / Opposition"]
     C --> D[Registration]
     D --> E[Trademark Record]
 ```
@@ -320,7 +320,7 @@ A Geographical Indication (GI) identifies goods associated with a particular **g
 **Simple idea**
 ```mermaid
 flowchart TD
-    A[PLACE] --> B[Special reputation / characteristics]
+    A[PLACE] --> B["Special reputation / characteristics"]
     B --> C[PRODUCT]
     C --> D[GI protection]
 ```
@@ -432,7 +432,7 @@ flowchart TD
     A --> C[INDIA]
     
     B --> D[WIPO]
-    B --> E[WTO/TRIPS]
+    B --> E["WTO/TRIPS"]
     
     C --> F[DPIIT]
     C --> G[Copyright Office]

@@ -36,7 +36,7 @@ flowchart TD
     G --> H[EXCLUSIVE LEGAL RIGHTS]
     
     H --> I[Make]
-    H --> J[Use/Sell]
+    H --> J["Use/Sell"]
     H --> K[Import]
 ```
 
@@ -83,7 +83,7 @@ flowchart TD
     A[Invention] --> B[Patent application]
     B --> C[Technical disclosure]
     C --> D[Publicly available technical knowledge]
-    D --> E[Future research & innovation]
+    D --> E["Future research & innovation"]
 ```
 
 > ⭐️ **Exam keyword:** Patents attempt to balance **private rights of inventors** with the **public interest**.
@@ -118,7 +118,7 @@ flowchart TD
 Inventor develops:
 ```mermaid
 flowchart TD
-    A[Battery A + new technical architecture] --> B[Better performance / solves technical problem]
+    A["Battery A + new technical architecture"] --> B["Better performance / solves technical problem"]
 ```
 Such an improvement may potentially be patentable if it satisfies the legal requirements.
 
@@ -337,8 +337,8 @@ So the broad historical progression can be remembered as:
 flowchart TD
     A[Patents Act, 1970] --> B[Greater emphasis on process patents in certain sectors]
     B --> C[India's TRIPS obligations]
-    C --> D[1999 / 2002 / 2005 amendments]
-    D --> E[2005\nProduct patent protection in areas covered by TRIPS]
+    C --> D["1999 / 2002 / 2005 amendments"]
+    D --> E["2005\nProduct patent protection in areas covered by TRIPS"]
 ```
 
 ## 20. 1970 vs 2002 vs 2005 — ⭐️ VERY IMPORTANT
@@ -357,13 +357,13 @@ Memorize this:
 
 ```mermaid
 flowchart TD
-    A[1856\nEarly Indian patent legislation] --> B[1911\nIndian Patents and Designs Act]
-    B --> C[1970\nPATENTS ACT ENACTED]
-    C --> D[1972\nPATENTS ACT COMES INTO FORCE]
-    D --> E[1999\nMajor amendment]
-    E --> F[2002\nTRIPS-related reforms + 18-month publication + examination/procedure changes]
-    F --> G[2005\nPRODUCT PATENT PROTECTION in areas where TRIPS required it]
-    G --> H[CURRENT REGIME\nPatents Act, 1970 as amended from time to time]
+    A["1856\nEarly Indian patent legislation"] --> B["1911\nIndian Patents and Designs Act"]
+    B --> C["1970\nPATENTS ACT ENACTED"]
+    C --> D["1972\nPATENTS ACT COMES INTO FORCE"]
+    D --> E["1999\nMajor amendment"]
+    E --> F["2002\nTRIPS-related reforms + 18-month publication + examination/procedure changes"]
+    F --> G["2005\nPRODUCT PATENT PROTECTION in areas where TRIPS required it"]
+    G --> H["CURRENT REGIME\nPatents Act, 1970 as amended from time to time"]
 ```
 
 

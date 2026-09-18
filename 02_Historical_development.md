@@ -73,11 +73,11 @@ flowchart TD
     
     U[India]
     U --> V[1856 → First patent legislation]
-    U --> W[1911 → Indian Patents & Designs Act]
+    U --> W["1911 → Indian Patents & Designs Act"]
     U --> X[1970 → Indian Patent Act]
     U --> Y[1999 → Trade Marks Act]
-    U --> Z[2000/2003 → GI Act]
-    U --> AA[2000/2001 → Semiconductor Layout-Design Act]
+    U --> Z["2000/2003 → GI Act"]
+    U --> AA["2000/2001 → Semiconductor Layout-Design Act"]
     U --> AB[2005 → Patent Amendment]
 ```
 
@@ -162,7 +162,7 @@ With copyright:
 ```mermaid
 flowchart TD
     A[You write book] --> B[Copyright protection]
-    B --> C[You control reproduction/publication]
+    B --> C["You control reproduction/publication"]
     C --> D[Others need authorization]
 ```
 
@@ -193,9 +193,9 @@ Therefore, inventions became increasingly valuable and copying became a bigger c
 flowchart TD
     A[Industrial Revolution] --> B[More inventions]
     B --> C[More valuable technology]
-    C --> D[More copying / commercial competition]
+    C --> D["More copying / commercial competition"]
     D --> E[Greater need for IP protection]
-    E --> F[Stronger patent + trademark systems]
+    E --> F["Stronger patent + trademark systems"]
 ```
 
 **Major developments**
@@ -437,8 +437,8 @@ Remember:
 Imagine:
 ```mermaid
 flowchart TD
-    A[Country A\nStrong patent protection]
-    B[Country B\nVery weak patent protection]
+    A["Country A\nStrong patent protection"]
+    B["Country B\nVery weak patent protection"]
 ```
 A company may face very different IP conditions in the two markets.
 TRIPS establishes **minimum standards** that WTO members must implement.
@@ -464,7 +464,7 @@ Now remember this as a separate timeline.
 flowchart TD
     A[1856] --> B[First Patent Law]
     B --> C[1911]
-    C --> D[Indian Patents & Designs Act]
+    C --> D["Indian Patents & Designs Act"]
     D --> E[1970]
     E --> F[Patents Act]
     F --> G[1999]
@@ -509,7 +509,7 @@ The **Indian Patents and Designs Act, 1911** was an important development in Ind
 flowchart TD
     A[Earlier patent laws] --> B[1911 Act]
     B --> C[More organized legal framework]
-    C --> D[Patent + Design administration]
+    C --> D["Patent + Design administration"]
 ```
 
 **Exam sentence**
@@ -542,7 +542,7 @@ flowchart TD
 **Process patent:**
 ```mermaid
 flowchart TD
-    A[The method/process used to manufacture it is protected]
+    A["The method/process used to manufacture it is protected"]
 ```
 
 Historically, India's 1970 patent regime permitted **process patents** in pharmaceuticals and food while excluding product patents in those areas.
@@ -567,7 +567,7 @@ A **trademark** identifies the source of goods or services.
 **Examples:**
 ```mermaid
 flowchart TD
-    A[Company] --> B[Brand name / Logo]
+    A[Company] --> B["Brand name / Logo"]
     B --> C[Trademark]
     C --> D[Consumers identify the source]
 ```
@@ -601,7 +601,7 @@ is essentially attributable to its **geographical origin**.
 ```mermaid
 flowchart TD
     A[Darjeeling region] --> B[Specific geographical conditions]
-    B --> C[Distinctive reputation/characteristics]
+    B --> C["Distinctive reputation/characteristics"]
     C --> D[GI protection]
 ```
 
@@ -670,7 +670,7 @@ flowchart TD
 flowchart TD
     A[TRIPS obligations] --> B[2005 amendment]
     B --> C[Product patent protection introduced]
-    C --> D[Pharmaceuticals + other covered fields]
+    C --> D["Pharmaceuticals + other covered fields"]
 ```
 
 **Other developments**
@@ -688,17 +688,17 @@ This is probably the **best diagram to reproduce in an exam**.
 ```mermaid
 flowchart TD
     A[HISTORICAL DEVELOPMENT OF IPR]
-    A --> B[1624\nStatute\nof Monopolies]
-    B --> C[Patent\nprinciples]
-    A --> D[1710\nStatute\nof Anne]
-    D --> E[Copyright\nprinciples]
-    A --> F[1883\nParis\nConvention]
-    F --> G[Industrial\nProperty]
+    A --> B["1624\nStatute\nof Monopolies"]
+    B --> C["Patent\nprinciples"]
+    A --> D["1710\nStatute\nof Anne"]
+    D --> E["Copyright\nprinciples"]
+    A --> F["1883\nParis\nConvention"]
+    F --> G["Industrial\nProperty"]
     
-    G --> H[1886\nBerne Convention\nInternational Copyright]
-    H --> I[1967\nWIPO\nInternational IP body]
+    G --> H["1886\nBerne Convention\nInternational Copyright"]
+    H --> I["1967\nWIPO\nInternational IP body"]
     I --> J["1974\nWIPO -> UN Specialized Agency"]
-    J --> K[1995\nTRIPS Agreement\nMinimum international IP standards]
+    J --> K["1995\nTRIPS Agreement\nMinimum international IP standards"]
     
     K --> L[INDIAN DEVELOPMENT]
     L --> M["1856 -> First Patent Law"]
@@ -744,9 +744,9 @@ flowchart TD
 **Easy way**
 ```mermaid
 flowchart TD
-    A[WIPO] --> B[International IP cooperation + Administration of IP systems/treaties]
+    A[WIPO] --> B["International IP cooperation + Administration of IP systems/treaties"]
     C[TRIPS] --> D[WTO]
-    D --> E[Minimum IP standards + Enforcement obligations + International trade]
+    D --> E["Minimum IP standards + Enforcement obligations + International trade"]
 ```
 
 ---
@@ -776,12 +776,12 @@ IPR developed because societies needed to balance **innovation and public access
 ```mermaid
 flowchart TD
     A[CREATOR] --> B[creates]
-    B --> C[INVENTION / CREATIVE WORK]
+    B --> C["INVENTION / CREATIVE WORK"]
     C --> D[LEGAL PROTECTION]
-    D --> E[Patent\nCopyright\nTrademark\nOther IP rights]
-    E --> F[EXCLUSIVE RIGHTS FOR LIMITED/DEFINED PERIOD]
-    F --> G[INCENTIVE TO CREATE + INNOVATE]
-    G --> H[TECHNOLOGICAL + CULTURAL + ECONOMIC DEVELOPMENT]
+    D --> E["Patent\nCopyright\nTrademark\nOther IP rights"]
+    E --> F["EXCLUSIVE RIGHTS FOR LIMITED/DEFINED PERIOD"]
+    F --> G["INCENTIVE TO CREATE + INNOVATE"]
+    G --> H["TECHNOLOGICAL + CULTURAL + ECONOMIC DEVELOPMENT"]
 ```
 
 The important concept is that IPR gives **legal protection/exclusive rights** while generally operating within defined **limitations, exceptions and durations**.
@@ -810,10 +810,10 @@ Organizations such as **WIPO** facilitate cooperation between countries in the f
 IP protection can help businesses and institutions seek returns from investment in **R&D**.
 ```mermaid
 flowchart TD
-    A[R&D investment] --> B[New invention]
+    A["R&D investment"] --> B[New invention]
     B --> C[IP protection]
     C --> D[Commercial opportunity]
-    D --> E[Further investment in R&D]
+    D --> E["Further investment in R&D"]
 ```
 
 **6. Supported Technology Transfer**
@@ -920,27 +920,27 @@ If you have only **5 minutes before the exam**, learn this:
 flowchart TD
     A[DEVELOPMENT OF IPR]
     A --> B[EARLY NATIONAL LAWS]
-    B --> C[1624\nPATENTS\nStatute of Monopolies]
-    B --> D[1710\nCOPYRIGHT\nStatute of Anne]
+    B --> C["1624\nPATENTS\nStatute of Monopolies"]
+    B --> D["1710\nCOPYRIGHT\nStatute of Anne"]
     
     C --> E[INDUSTRIAL REVOLUTION]
     D --> E
     
-    E --> F[NEED FOR INTERNATIONAL\nIP PROTECTION]
+    E --> F["NEED FOR INTERNATIONAL\nIP PROTECTION"]
     
-    F --> G[1883\nPARIS\nINDUSTRIAL IP]
-    F --> H[1886\nBERNE\nCOPYRIGHT]
+    F --> G["1883\nPARIS\nINDUSTRIAL IP"]
+    F --> H["1886\nBERNE\nCOPYRIGHT"]
     
-    G --> I[1967\nWIPO]
+    G --> I["1967\nWIPO"]
     H --> I
     
-    I --> J[1974\nWIPO + UN]
+    I --> J["1974\nWIPO + UN"]
     
-    J --> K[1995\nTRIPS]
+    J --> K["1995\nTRIPS"]
     
     K --> L[GLOBAL MINIMUM STANDARDS]
     
-    L --> M[INDIA'S MODERN IPR\nSYSTEM]
+    L --> M["INDIA'S MODERN IPR\nSYSTEM"]
     
     M --> N[Patent]
     M --> O[Trademark]
