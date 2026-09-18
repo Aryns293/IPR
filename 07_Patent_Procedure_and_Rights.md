@@ -482,24 +482,49 @@ flowchart TD
 * **4** → Atomic
 
 
-## 🧠 Ultimate Mindmap: Patent Procedure
+## 🧠 Ultimate Mindmap 1: Patentable Subject Matter
 ```mermaid
 mindmap
-  root((Procedure))
-    Application
-      Provisional
-      Complete
-      Publication
-    Examination
-      Request for Exam
+  root((Patentability))
+    Criteria
+      New / Novelty
+      Inventive Step
+      Industrial Application
+      Not Excluded
+    Section 3 Exclusions
+      3c Scientific Principle
+      3d New Form of Substance
+      3i Medical Treatment
+      3k Math Business Code
+    Section 4 Exclusions
+      Atomic Energy
+      National Security
+```
+
+## 🧠 Ultimate Mindmap 2: Patent Procedure
+```mermaid
+mindmap
+  root((Patent Procedure))
+    1 Preparation
+      Identify Invention
+      Prior-Art Search
+    2 Filing Application
+      Types of Applications
+        Ordinary
+        Convention
+        PCT National Phase
+        Divisional
+      Specifications
+        Provisional for Priority
+        Complete with Claims
+    3 Publication
+      18 Months from Filing
+      Public Disclosure
+    4 Examination
+      Request for Exam RFE
       First Examination Report FER
-      Response
-    Grant
-      Pre-grant Opposition
-      Post-grant Opposition
+      Objections & Response
+    5 Grant
       Patent Certificate
-    Rights
-      Exclusive Commercial Use
-      Transfer
-      Surrender
+      20 Years Term
 ```
