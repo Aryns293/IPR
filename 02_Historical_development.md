@@ -966,17 +966,55 @@ If you remember those **8 milestones + what each one did**, you can reconstruct 
 ```mermaid
 mindmap
   root((History of IPR))
-    International
+    Early Origins
       1624 Statute of Monopolies
+        England
+        Restricted arbitrary monopolies
+        Patents for new inventions
       1710 Statute of Anne
+        England
+        Early modern copyright
+        Protected authors
+      Industrial Revolution
+        Tech development
+        More inventions
+        Need for IP protection
+    International Framework
       1883 Paris Convention
+        Industrial Property
+        National Treatment
+        Right of Priority
       1886 Berne Convention
+        Copyright
+        Literary & Artistic Works
+        Automatic Protection
       1967 WIPO
+        World IP Organization
+        Geneva
+        1974 UN Specialized Agency
       1995 TRIPS
-    India
+        WTO Agreement
+        Minimum IP standards
+        Enforcement framework
+    Indian Development
       1856 First Patent Law
       1911 Patents & Designs Act
       1970 Patents Act
+        Process patents in pharma
+        Domestic industry focus
       1999 Trade Marks Act
+        Service marks
+      1999 GI Act
+        Geographical origin
+      2000 Semiconductor Layout Act
       2005 Patent Amendment
+        Product patents introduced
+        TRIPS compliance
+    Significance
+      Encourage Innovation
+      Protect Creators
+      Promote Trade
+      International Cooperation
+      Technology Transfer
+      Economic Development
 ```
