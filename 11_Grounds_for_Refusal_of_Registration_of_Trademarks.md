@@ -315,7 +315,7 @@ flowchart TD
 
 That single principle ties almost all the **Section 9 absolute grounds** together.
 
-## 🧠 Ultimate Mindmap: Absolute Grounds (Section 9)
+## 🧠 Ultimate Mindmap 1: Distinctiveness & Public Policy (Sec 9.1 & 9.2)
 ```mermaid
 mindmap
   root((Section 9))
@@ -324,12 +324,18 @@ mindmap
       Geographical Locations
       Customary Marks
       Exception Acquired Distinctiveness
-    9 2 Public Interest & Policy
+    9 2 Public Interest
       Deceitful Marks
       Hurts Religious Sentiments
       Obscene or Scandalous
-      Prohibited Symbols Emblems
-    9 3 Shape Restrictions
+      Prohibited Symbols
+```
+
+## 🧠 Ultimate Mindmap 2: Shape Restrictions (Sec 9.3)
+```mermaid
+mindmap
+  root((Shape Restrictions))
+    9 3 Restrictions
       Nature of Goods
       Technical Result
       Substantial Value
