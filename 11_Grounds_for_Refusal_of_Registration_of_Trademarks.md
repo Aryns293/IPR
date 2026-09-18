@@ -1,156 +1,336 @@
 # Grounds for Refusal of Registration of Trademarks
 
-**Easy + Structured + Exam-Oriented Notes**
-
-When you apply to register a trademark, the Registrar can reject your application. The **Trade Marks Act, 1999** divides the reasons for rejection into two main categories:
-1.  **Absolute Grounds** (Section 9)
-2.  **Relative Grounds** (Section 11)
-
-> **Exam Strategy:** If a question asks about refusal, you MUST mention **Section 9** and **Section 11**.
-
----
-
-## 1. Absolute Grounds for Refusal (Section 9)
-
-**What does it mean?**
-"Absolute grounds" refer to defects **within the trademark itself**. The mark is inherently incapable of being a valid trademark.
-
-Under **Section 9(1)**, a trademark will be refused registration if it falls into any of these 3 categories:
-
-**A. Devoid of Distinctive Character**
-The mark is too generic and cannot distinguish your goods from others.
-*   *Example:* You cannot trademark the word "APPLE" for selling real apples.
-
-**B. Descriptive Marks**
-The mark merely describes the kind, quality, quantity, intended purpose, or geographical origin of the goods.
-*   *Example:* You cannot trademark "SWEET" for chocolates, or "DELHI SWEETS" for sweets made in Delhi.
-
-**C. Customary Marks**
-The mark consists exclusively of words or indications that have become customary in the current language or in the established practices of the trade.
-*   *Example:* You cannot trademark "XEROX" for photocopying services if it has become a generic term, or drawing a standard "plug" symbol for electrical goods.
-
-### ⭐️ The "Acquired Distinctiveness" Exception!
-There is a massive exception to Section 9(1).
-A mark that is descriptive or lacks distinctiveness **CAN be registered** if, before the date of application, it has **acquired a distinctive character as a result of the use made of it**.
-*   *Example:* "Reliance" is a normal English dictionary word. But through massive continuous use, it has acquired a "secondary meaning" and points to Mukesh Ambani's company. Therefore, it is registered.
-
-### Other Absolute Grounds [Section 9(2) & 9(3)]
-A mark shall also be refused if:
-*   It is of such a nature as to **deceive the public** or cause confusion.
-*   It contains or comprises any matter likely to hurt **religious susceptibilities**.
-*   It comprises **scandalous or obscene matter**.
-*   Its use is prohibited under the **Emblems and Names (Prevention of Improper Use) Act, 1950** (e.g., you cannot use the Indian National Flag or the Ashok Chakra).
-*   It consists exclusively of the **shape of goods** which results from the nature of the goods themselves (e.g., a standard round ball shape for a football).
-
-🧠 **Memory Trick for Section 9:**
-**D-D-C + D-R-O-E-S**
-*   **D**evoid of distinctiveness
-*   **D**escriptive
-*   **C**ustomary
-*   **D**eceptive
-*   **R**eligious hurt
-*   **O**bscene
-*   **E**mblems Act
-*   **S**hape (natural shape)
-
----
-
-## 2. Relative Grounds for Refusal (Section 11)
-
-**What does it mean?**
-"Relative grounds" refer to conflicts with **pre-existing rights of third parties**. The mark might be perfectly distinctive, but someone else already owns a similar mark!
-
-Under **Section 11**, a trademark shall not be registered if:
-
-**1. Identical Mark + Similar Goods = Confusion**
-If the mark is **identical** with an earlier trade mark and the goods/services are **similar**, causing a likelihood of confusion on the part of the public.
-
-**2. Similar Mark + Identical Goods = Confusion**
-If the mark is **similar** to an earlier trade mark and the goods/services are **identical**, causing a likelihood of confusion.
-
-**3. Identical/Similar Mark + Different Goods (Well-Known Trademark)**
-If the earlier trademark is a **Well-Known Trademark** in India, you cannot use a similar mark even for completely different goods, because it would take unfair advantage of or be detrimental to the distinctive character or repute of the earlier trademark.
-*   *Example:* You cannot register "TATA" for selling shoes, even if Tata doesn't sell shoes. "TATA" is a well-known mark.
-
-### The "Honest Concurrent Use" Exception! (Section 12)
-If two people have been using identical or similar trademarks completely honestly and independently of each other for a long time, the Registrar may permit **both** of them to register the mark, subject to certain conditions.
-
----
-
-## 3. Absolute vs Relative Grounds (The Ultimate Comparison)
-
-This is the most common exam question.
-
-| Feature | Absolute Grounds (Section 9) | Relative Grounds (Section 11) |
-| :--- | :--- | :--- |
-| **Focus** | Inherent defect in the **mark itself**. | Conflict with **another person's existing mark**. |
-| **Reason for refusal** | Mark is not distinctive, or is descriptive/customary. | Mark is too similar to an earlier trademark, causing confusion. |
-| **Who objects?** | Usually the **Trademark Registry** during examination. | Usually the **Owner of the earlier trademark** during opposition. |
-| **Exception/Defense** | **Acquired Distinctiveness** (Secondary meaning through long use). | **Honest Concurrent Use** (Both used it honestly for a long time). |
-| **Example** | Rejecting "Best Laptops" for laptops. | Rejecting "Adibas" for shoes because "Adidas" already exists. |
-
----
-
-## 4. Flowchart of Refusal
+A trademark application can be refused on **two broad grounds**:
 
 ```mermaid
 flowchart TD
-    A[Trademark Application] --> B{Is it distinctive?}
-    B -- NO --> C["Refused under Section 9\n(Absolute Grounds)"]
-    B -- YES --> D{Does it conflict with\nan earlier mark?}
-    D -- YES --> E["Refused under Section 11\n(Relative Grounds)"]
-    D -- NO --> F[Accepted & Advertised]
-    
-    C -.-> G[Unless it has Acquired Distinctiveness!]
-    E -.-> H[Unless there is Honest Concurrent Use!]
+    A[REFUSAL OF TRADEMARK] --> B["ABSOLUTE GROUNDS\nSection 9"]
+    A --> C["RELATIVE GROUNDS\n(other marks/rights)"]
 ```
 
----
+**Easy Difference**
+*   **Absolute grounds** → Problem is with the **trademark itself**.
+*   **Relative grounds** → Problem arises because of its **conflict with an existing trademark/right**.
 
-## 5. Full-Marks Exam Answers
+🧠 **Memory:**
+*   **Absolute = Alone problem**
+*   **Relative = Relation/conflict with another mark**
 
-### Q: "Explain the Absolute Grounds for refusal of a trademark."
-> Under **Section 9 of the Trade Marks Act, 1999**, a trademark can be refused registration on absolute grounds if the defect lies in the mark itself. A mark will be refused if it is **devoid of any distinctive character**, if it merely **describes** the quality, quantity, or geographical origin of the goods, or if it has become **customary** in the current language. Furthermore, marks that are **deceptive**, hurt **religious feelings**, contain **obscene matter**, or violate the **Emblems and Names Act** are also refused. 
-> **Exception:** A descriptive mark may still be registered if it has **acquired a distinctive character** (secondary meaning) as a result of its long and continuous use before the date of application.
-
-### Q: "Explain the Relative Grounds for refusal of a trademark."
-> Under **Section 11 of the Trade Marks Act, 1999**, a trademark can be refused registration on relative grounds if it conflicts with an earlier existing trademark. A mark will be refused if it is **identical or similar** to an earlier trademark, and the goods or services are also identical or similar, resulting in a **likelihood of confusion** among the public. Additionally, if the earlier mark is a **well-known trademark** in India, a similar mark cannot be registered even for completely different goods. 
-> **Exception:** Under Section 12, the Registrar may allow registration in cases of **honest concurrent use** by two independent parties.
+*The content provided mainly explains Absolute Grounds under Section 9.*
 
 ---
 
-## 🧠 Ultimate Mindmap 1: Absolute Grounds (Section 9)
+## 1. Devoid of Distinctive Character — Section 9(1)(a)
+
+A trademark must be capable of **distinguishing** one business's goods/services from those of others.
+If a mark has **no distinctive character**, it cannot normally be registered.
+
+**Simple Example**
+Suppose someone wants to register:
+> **"MILK"** for ordinary milk products.
+
+"Milk" directly describes the product and does not sufficiently distinguish one trader's milk from another's.
+
+**Remember**
+**No distinctiveness → No registration**
+
+---
+
+## 2. Geographical Locations — Section 9(1)(b)
+
+A **geographical name/location** generally cannot be registered as a trademark when it fails the distinctiveness test.
+
+**Why?**
+A geographical name may merely indicate the **place of origin** of the goods rather than distinguish one particular business.
+
+For example:
+> **"Delhi"** for a product may simply indicate that the product comes from Delhi.
+
+It does not necessarily identify one particular trader.
+
+**Why should everyone be allowed to use it?**
+Geographical names are generally **generic/common terms**, so other traders should also be free to use them.
+Restricting them could interfere with the **freedom of trade under Article 19(1)(g)** of the Constitution.
+
+🧠 **Memory**
+**Place name → Common to traders → No monopoly**
+
+---
+
+## 3. Customary Words and Marks — Section 9(1)(c)
+
+Words or marks that have become **customary in contemporary language or trade practice** cannot normally be registered.
+
+**Why?**
+Because granting exclusive rights over a common/customary term would **dilute its distinctiveness** and unfairly restrict other traders.
+
+**Example**
+Suppose Company X wants to trademark:
+> **"Laptop"** for laptops.
+
+The word **laptop** is a generic/customary term used throughout the market.
+If X gets exclusive trademark rights over "Laptop", other laptop manufacturers could face restrictions on using an ordinary term needed for their trade.
+This can interfere with their **right to trade under Article 19(1)(g)**.
+
+🧠 **Memory**
+**Common word → Everyone needs it → Cannot monopolise it**
+
+---
+
+## 4. Acquired Distinctiveness / Secondary Meaning
+
+This is an **important exception/concept** connected with Section 9.
+
+A mark may initially lack **inherent distinctiveness**, but extensive and continuous use can cause consumers to associate that mark specifically with **one particular business**.
+
+This is called:
+*   **Acquired distinctiveness**
+*   **Secondary meaning**
+*   **Doctrine of secondary meaning**
+
+**Simple Idea**
+```mermaid
+flowchart TD
+    A[Initially Generic Mark] --> B[Not distinctive]
+    B --> C[Extensive + exclusive use]
+    C --> D[Consumers associate it with ONE business]
+    D --> E[Acquired Distinctiveness]
+    E --> F[May qualify for registration]
+```
+
+**Example**
+Imagine a common word **"X"** initially has no distinctive character.
+After many years of **extensive use and promotion**, consumers begin to think:
+
+> **"X = Company A"**
+
+The word has now developed a **secondary meaning**.
+
+**Important Point**
+Such a mark:
+*   **Lacks inherent distinctiveness initially**
+*   **Gains distinctiveness through use**
+*   **Becomes associated with a particular business in the consumer market**
+
+These are referred to in the material as **secondary trademarks**.
+
+🧠 **Memory Trick**
+**Born ordinary → Used extensively → Becomes special**
+
+---
+
+## 5. Deceitful Marks — Section 9(2)(a)
+
+A mark cannot be registered if it is **deceitful** or likely to **deceive/confuse consumers**.
+
+The basic concern is:
+> Will consumers mistakenly believe that this product is connected with an existing trademark/business?
+
+**Example: Parle C vs Parle G**
+Suppose someone tries to register:
+> **"Parle C"**
+> for biscuits.
+
+Consumers could potentially associate it with the established **Parle** brand and become confused.
+Therefore, such a mark may be refused because of its **deceptive/confusing character**.
+
+**Effect**
+Deceptive use can:
+*   **Confuse customers**
+*   Harm the **market value/reputation** of the genuine trademark owner
+*   Give an **unfair advantage** to another business
+
+🧠 **Memory**
+**Deceive → Confuse → Refuse**
+
+---
+
+## 6. Marks Hurting Religious Sentiments — Section 9(2)(b)
+
+A trademark cannot be registered if its use is likely to **hurt the religious sentiments or beliefs of any class or section of citizens of India.**
+
+The provision is connected with protection of **religious beliefs**, with the material referring to **Article 25** of the Constitution.
+
+**Simple Example**
+Suppose a company tries to use a mark containing a representation that is seriously offensive to the religious beliefs of a community.
+Such a mark may be **refused registration**.
+
+🧠 **Memory**
+**Religious belief hurt → Registration refused**
+
+---
+
+## 7. Obscene / Scandalous Material — Section 9(2)(c)
+
+A trademark containing **scandalous or obscene matter** cannot be registered.
+
+**Simple Example**
+Suppose a company applies for a trademark containing **obscene material**.
+
+Even if the mark has some commercial/brand value, it can still be refused because of its **obscene or scandalous nature**.
+
+The material connects this restriction with **public order and constitutional morality**, and gives reference to obscenity under **Section 294 of the Bharatiya Nyaya Sanhita, 2023**.
+
+**Key Point**
+> Commercial value does not automatically make an obscene mark registrable.
+
+🧠 **Memory**
+**Obscene → Against public standards → Refused**
+
+---
+
+## 8. Prohibited Symbols and Signs — Section 9(2)(d)
+
+A trademark cannot be registered if it contains a **symbol or sign whose commercial use is prohibited by law**, including under the **Emblems and Names (Prevention of Improper Use) Act, 1950**.
+
+**Examples mentioned**
+*   **Indian National Emblem / Lion Capital**
+*   **Indian National Flag**
+
+These symbols represent **national pride** and should not be appropriated by commercial entities for private commercial benefit where prohibited by law.
+
+**Purpose**
+To prevent businesses from obtaining exclusive commercial rights over **national symbols/signs**.
+
+🧠 **Memory**
+**National symbol ≠ Private commercial monopoly**
+
+---
+
+## 9. Shape of Goods — Section 9(3)
+
+Even the **shape** of a product can sometimes function as a trademark.
+However, certain shapes **cannot be registered**.
+
+Section 9(3) identifies **three categories**.
+
+**Memory Trick: N–T–V**
+*   **N** = Nature
+*   **T** = Technical result
+*   **V** = Value
+
+```mermaid
+flowchart TD
+    A[SHAPE OF GOODS] --> B[NATURE]
+    A --> C["TECHNICAL\nRESULT"]
+    A --> D["VALUE\n(substantial)"]
+```
+
+### A. Shape Resulting From Nature of Goods
+A shape cannot be registered if it results from the **nature of the goods themselves**.
+
+**In simple terms:**
+> If the shape is naturally/inherently required by what the product is, one trader should not get an exclusive trademark over that shape.
+
+**Example**
+A basic **cardboard box** has a shape arising from the nature/function of the product.
+A trader cannot simply claim that ordinary inherent shape as its exclusive trademark.
+
+🧠 **Remember**
+**Product's nature determines shape → No monopoly**
+
+### B. Shape Necessary to Obtain a Technical Result
+A shape cannot be registered when it is **necessary to obtain a technical result**.
+
+**Example: Knife**
+A knife needs a **sharp edge** to perform its cutting function.
+Therefore, a trader cannot claim exclusive trademark rights over a shape/feature that is **technically necessary** to achieve that result.
+
+```mermaid
+flowchart TD
+    A[Sharp edge] --> B[Required for cutting]
+    B --> C[Technical function]
+    C --> D[Cannot monopolise it as trademark]
+```
+
+🧠 **Remember**
+**Technical necessity → No trademark monopoly**
+
+### C. Shape Giving Substantial Value to Goods
+A shape is also excluded when it gives **substantial value to the goods** in the circumstances described by Section 9(3).
+
+The idea is that a feature that is **intrinsic to the product's use/value**, rather than functioning merely as a distinctive badge of origin, should not be monopolised through trademark law.
+
+**Example from the material**
+For a **knife**, sharpness is:
+*   **Intrinsic** to the product's function, and
+*   Gives **substantial value/utility** to the product.
+
+Therefore, such a feature cannot simply be claimed as a trademark.
+
+🧠 **Remember**
+**Intrinsic value/function → No trademark monopoly**
+
+---
+
+## Complete Section 9 Summary
+
+| Provision | Ground for Refusal | Easy Meaning |
+| :--- | :--- | :--- |
+| **9(1)(a)** | **Devoid of distinctive character** | Cannot distinguish the business |
+| **9(1)(b)** | **Geographical locations** | Place name generally lacks distinctiveness |
+| **9(1)(c)** | **Customary words/marks** | Common market terms cannot be monopolised |
+| **9(1)(c) Proviso** | **Acquired distinctiveness** | Extensive use can create secondary meaning |
+| **9(2)(a)** | **Deceitful** | Deceives/confuses consumers |
+| **9(2)(b)** | **Religious sentiments** | Hurts religious beliefs/sentiments |
+| **9(2)(c)** | **Obscene/scandalous** | Contains prohibited obscene/scandalous matter |
+| **9(2)(d)** | **Prohibited symbols/signs** | Legally protected symbols cannot be commercially appropriated |
+| **9(3)** | **Shape of goods** | Certain functional/intrinsic shapes cannot be monopolised |
+
+---
+
+## 🧠 SUPER-EASY MEMORY TRICK
+
+For **Section 9**, remember:
+
+**D–G–C–A–D–R–O–S–S**
+*   **D** → **Distinctiveness** absent
+*   **G** → **Geographical** locations
+*   **C** → **Customary** words
+*   **A** → **Acquired distinctiveness**
+*   **D** → **Deceitful** marks
+*   **R** → **Religious** sentiments
+*   **O** → **Obscenity**
+*   **S** → **Symbols/signs** prohibited
+*   **S** → **Shape** restrictions
+
+For shape specifically:
+**NTV = Nature – Technical – Value**
+
+---
+
+## ⭐ 30-Second Revision
+
+```mermaid
+flowchart TD
+    A[SECTION 9] --> B[ABSOLUTE GROUNDS]
+    B --> C["9(1)\n|\nD-G-C"]
+    B --> D["9(2)\n|\nD-R-O-S"]
+    B --> E["9(3)\n|\nN-T-V"]
+    B --> F["EXCEPTION\n|\nAcquired\nDistinctiveness"]
+```
+
+**Core principle:**
+> **A trademark should be distinctive, non-deceptive, non-offensive, legally permissible, and should not give one trader a monopoly over common or technically necessary features.**
+
+That single principle ties almost all the **Section 9 absolute grounds** together.
+
+## 🧠 Ultimate Mindmap: Absolute Grounds (Section 9)
 ```mermaid
 mindmap
-  root((Absolute Grounds))
-    Inherent Defects
-      Devoid of Distinctiveness
-      Descriptive of Goods
-      Customary in Language
-    Public Interest
-      Deceptive to Public
+  root((Section 9))
+    9 1 Lack of Distinctiveness
+      Devoid of distinctive character
+      Geographical Locations
+      Customary Marks
+      Exception Acquired Distinctiveness
+    9 2 Public Interest & Policy
+      Deceitful Marks
       Hurts Religious Sentiments
-      Scandalous or Obscene
-      Violates Emblems Act
-    Shape Limitations
-      Resulting from Nature of Goods
-    The Big Exception
-      Acquired Distinctiveness
-      Secondary Meaning through use
-```
-
-## 🧠 Ultimate Mindmap 2: Relative Grounds (Section 11)
-```mermaid
-mindmap
-  root((Relative Grounds))
-    Conflict with Earlier Mark
-      Identical Mark plus Similar Goods
-      Similar Mark plus Identical Goods
-      Likelihood of Confusion
-    Well Known Trademarks
-      Protected across different goods
-      Prevents Unfair Advantage
-    The Big Exception
-      Section 12
-      Honest Concurrent Use
+      Obscene or Scandalous
+      Prohibited Symbols Emblems
+    9 3 Shape Restrictions
+      Nature of Goods
+      Technical Result
+      Substantial Value
 ```
