@@ -697,17 +697,17 @@ flowchart TD
     
     G --> H[1886\nBerne Convention\nInternational Copyright]
     H --> I[1967\nWIPO\nInternational IP body]
-    I --> J[1974\nWIPO -> UN Specialized Agency]
+    I --> J["1974\nWIPO -> UN Specialized Agency"]
     J --> K[1995\nTRIPS Agreement\nMinimum international IP standards]
     
     K --> L[INDIAN DEVELOPMENT]
-    L --> M[1856 -> First Patent Law]
-    M --> N[1911 -> Patents & Designs Act]
-    N --> O[1970 -> Patents Act]
-    O --> P[1999 -> Trade Marks Act]
-    P --> Q[2000/2003 -> GI framework]
-    Q --> R[2000/2001 -> Semiconductor Layout-Design framework]
-    R --> S[2005 -> Patent Amendment]
+    L --> M["1856 -> First Patent Law"]
+    M --> N["1911 -> Patents & Designs Act"]
+    N --> O["1970 -> Patents Act"]
+    O --> P["1999 -> Trade Marks Act"]
+    P --> Q["2000/2003 -> GI framework"]
+    Q --> R["2000/2001 -> Semiconductor Layout-Design framework"]
+    R --> S["2005 -> Patent Amendment"]
 ```
 
 ---

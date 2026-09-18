@@ -509,7 +509,7 @@ Everything in these slides can be mentally connected like this:
 flowchart TD
     A[PATENT] --> B[PROTECTION\n|\nTechnical invention]
     A --> C[INFRINGEMENT\n|\nUnauthorized act]
-    A --> D[PROCESS\n|\nIdea -> Search -> Application -> Filing -> Publication -> Examination -> FER/Response -> Grant]
+    A --> D["PROCESS\n|\nIdea -> Search -> Application -> Filing -> Publication -> Examination -> FER/Response -> Grant"]
     
     C --> E[Claims determine scope of protection]
     

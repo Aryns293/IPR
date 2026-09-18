@@ -223,8 +223,8 @@ The main purpose is to help consumers identify the **source or commercial origin
 Suppose there are two companies selling smartphones:
 ```mermaid
 flowchart TD
-    A[Company A -> "ABC" + Logo]
-    B[Company B -> "XYZ" + Logo]
+    A["Company A -> 'ABC' + Logo"]
+    B["Company B -> 'XYZ' + Logo"]
 ```
 Customers use the brand names/logos to distinguish the products.
 
@@ -254,11 +254,11 @@ Helps prevent unauthorized use of **confusingly similar marks**, subject to appl
 Suppose a smartphone company has:
 ```mermaid
 flowchart TD
-    A[Company Name -> Trademark]
-    B[Company Logo -> Trademark]
-    C[Product Technology -> Potentially Patent]
-    D[Software Code -> Copyright]
-    E[Phone Appearance -> Industrial Design]
+    A["Company Name -> Trademark"]
+    B["Company Logo -> Trademark"]
+    C["Product Technology -> Potentially Patent"]
+    D["Software Code -> Copyright"]
+    E["Phone Appearance -> Industrial Design"]
 ```
 This is a **very important exam concept** because one product can have **multiple types of IPR protection**.
 
@@ -426,7 +426,7 @@ flowchart TD
 And:
 ```mermaid
 flowchart TD
-    A[Brand Name / Logo -> Trademark]
+    A["Brand Name / Logo -> Trademark"]
 ```
 
 **Therefore:**
@@ -576,9 +576,9 @@ Protects **original creative expression**.
 ```mermaid
 flowchart TD
     A[APPLE]
-    A --> B[Brand identity -> TRADEMARK]
+    A --> B["Brand identity -> TRADEMARK"]
     A --> C[Apple's software/code]
-    C --> D[Creative expression -> COPYRIGHT]
+    C --> D["Creative expression -> COPYRIGHT"]
 ```
 
 ## 30. One Product Can Have Multiple IPRs

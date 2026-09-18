@@ -42,9 +42,9 @@ flowchart TD
     H --> K[Designs Wing]
     H --> L[GI Registry]
     
-    D -.-> M[PCT -> Patents]
-    D -.-> N[Madrid -> Trademarks]
-    D -.-> O[Hague -> Designs]
+    D -.-> M["PCT -> Patents"]
+    D -.-> N["Madrid -> Trademarks"]
+    D -.-> O["Hague -> Designs"]
 ```
 
 **Remember:**
@@ -444,9 +444,9 @@ flowchart TD
     H --> K[Designs Wing]
     H --> L[GI Registry]
     
-    D -.-> M[PCT -> Patents]
-    D -.-> N[Madrid -> Trademarks]
-    D -.-> O[Hague -> Designs]
+    D -.-> M["PCT -> Patents"]
+    D -.-> N["Madrid -> Trademarks"]
+    D -.-> O["Hague -> Designs"]
 ```
 
 ## 26. Very Easy Way to Understand the Entire Topic

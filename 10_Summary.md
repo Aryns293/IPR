@@ -41,7 +41,7 @@ flowchart TD
     D --> D2[Not Patentable]
     D2 --> Sec3[Sec 3 & 4 Exclusions]
     D --> D3[Procedure]
-    D3 --> Proc[File -> Publish -> Examine -> Grant]
+    D3 --> Proc["File -> Publish -> Examine -> Grant"]
 
     %% Section 4
     E --> E1[Transfer]
@@ -49,7 +49,7 @@ flowchart TD
     E --> E2[Ending Rights]
     E2 --> End[Revocation & Surrender]
     E --> E3[Infringement]
-    E3 --> Inf[Direct/Indirect -> Injunction/Damages]
+    E3 --> Inf["Direct/Indirect -> Injunction/Damages"]
 ```
 
 ---
