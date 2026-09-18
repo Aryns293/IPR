@@ -524,19 +524,38 @@ Appeals + Abolished in 2021 + Tribunals Reforms Act + Functions transferred
 ## 🧠 Ultimate Mindmap: IPR Authorities
 ```mermaid
 mindmap
-  root((Authorities))
+  root((IPR Authorities))
     International
       WIPO
-        PCT
-        Madrid
-        Hague
-      WTO TRIPS
-    India
+        UN Specialized Agency
+        Geneva, Switzerland
+        Systems
+          PCT for Patents
+          Madrid for Trademarks
+          Hague for Designs
+      WTO
+        TRIPS Agreement
+        Minimum IP Standards
+        International Trade
+    India Ministry of Commerce & Industry
       DPIIT
-      CGPDTM
-      Patent Office
-      Trade Marks Registry
-      Designs Wing
-      GI Registry
-      Copyright Office
+        CGPDTM
+          Patent Office
+            HQ Kolkata
+            Grants Patents
+          Trade Marks Registry
+            HQ Mumbai
+            Registers Brands
+          Designs Wing
+            HQ Kolkata
+            Registers Visual Appearances
+          GI Registry
+            HQ Chennai
+            Registers Geographical Indications
+        Copyright Office
+          HQ New Delhi
+          Registers Creative Works
+    Important Notes
+      IPAB Abolished 2021
+      Powers to High Courts
 ```
