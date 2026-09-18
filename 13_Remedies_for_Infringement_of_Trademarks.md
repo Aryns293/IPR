@@ -398,11 +398,11 @@ mindmap
 > Thus, the **Trade Marks Act, 1999** provides a combination of **civil remedies** to stop infringement and compensate/protect the proprietor, and **criminal penalties** to punish specified trademark offences and deter unlawful conduct.
 
 
-## 🧠 Ultimate Mindmap: Civil and Criminal Remedies
+## 🧠 Ultimate Mindmap 1: Civil Remedies
 ```mermaid
 mindmap
-  root((Trademark Remedies))
-    Civil Remedies I D A M J N
+  root((Civil Remedies))
+    I D A M J N
       Injunction Stop
       Damages Money
       Accounts Profits
@@ -410,7 +410,13 @@ mindmap
       Mareva Assets
       John Doe Unknown Persons
       Norwich Third Party Info
-    Criminal Remedies Sections 103 to 109
+```
+
+## 🧠 Ultimate Mindmap 2: Criminal Remedies
+```mermaid
+mindmap
+  root((Criminal Remedies))
+    Sections 103 to 109
       103 Make False Mark
       104 Sell False Mark
       105 Repeat Offence
