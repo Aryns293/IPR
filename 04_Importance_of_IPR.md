@@ -420,11 +420,11 @@ This is a very useful diagram for an exam answer:
 flowchart TD
     A[INTELLECTUAL CREATION]
     
-    A --> B[Invention\n|\nPATENT]
-    A --> C[Creative Work\n|\nCOPYRIGHT]
-    A --> D[Brand\n|\nTRADEMARK]
-    A --> E[Product Appearance\n|\nINDUSTRIAL DESIGN]
-    A --> F[Confidential Information\n|\nTRADE SECRET]
+    A --> B["Invention\n|\nPATENT"]
+    A --> C["Creative Work\n|\nCOPYRIGHT"]
+    A --> D["Brand\n|\nTRADEMARK"]
+    A --> E["Product Appearance\n|\nINDUSTRIAL DESIGN"]
+    A --> F["Confidential Information\n|\nTRADE SECRET"]
     
     B --> G[LEGAL PROTECTION]
     C --> G

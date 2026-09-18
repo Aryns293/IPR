@@ -474,11 +474,11 @@ Different IP rights may apply:
 flowchart TD
     A[XYZ PRODUCT]
     
-    A --> B[New invention\n|\nPATENT\n|\nPatent Office]
-    A --> C[Logo/Brand\n|\nTRADEMARK\n|\nTrade Marks Registry]
-    A --> D[Appearance\n|\nDESIGN\n|\nDesigns Wing]
-    A --> E[Geographical origin\n|\nGI\n|\nGI Registry]
-    A --> F[Software\n|\nCOPYRIGHT\n|\nCopyright Office]
+    A --> B["New invention\n|\nPATENT\n|\nPatent Office"]
+    A --> C["Logo/Brand\n|\nTRADEMARK\n|\nTrade Marks Registry"]
+    A --> D["Appearance\n|\nDESIGN\n|\nDesigns Wing"]
+    A --> E["Geographical origin\n|\nGI\n|\nGI Registry"]
+    A --> F["Software\n|\nCOPYRIGHT\n|\nCopyright Office"]
 ```
 This is the easiest way to understand why there are **different IPR authorities**.
 

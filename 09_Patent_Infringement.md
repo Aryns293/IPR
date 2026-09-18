@@ -70,8 +70,8 @@ Think:
 ```mermaid
 flowchart TD
     A[PATENT] --> B[CLAIMS]
-    B --> C[Inside claims\n|\nProtection]
-    B --> D[Outside claims\n|\nNot within\nthose claims]
+    B --> C["Inside claims\n|\nProtection"]
+    B --> D["Outside claims\n|\nNot within\nthose claims"]
 ```
 
 So in an infringement question, don't simply ask: *"Does it look similar?"*
@@ -189,8 +189,8 @@ This is an important comparison.
 flowchart TD
     A[PATENT MATTERS] --> B[PATENT AGENT]
     A --> C[ADVOCATE/LAWYER]
-    B --> D[Patent Office\n|\nDrafting / Filing\nProsecution]
-    C --> E[Court\n|\nLitigation\nCourt proceedings]
+    B --> D["Patent Office\n|\nDrafting / Filing\nProsecution"]
+    C --> E["Court\n|\nLitigation\nCourt proceedings"]
 ```
 
 🧠 **One-line memory**
@@ -382,8 +382,8 @@ Identify → Search → Provisional → Develop → Complete → Request → Res
 **Key conceptual difference**
 ```mermaid
 flowchart TD
-    A[PATENT\n|\nDisclose invention\n+\nStatutory protection\n+\nGenerally 20 years]
-    B[TRADE SECRET\n|\nKeep information secret\n+\nConfidentiality-based protection\n+\nPotentially indefinite]
+    A["PATENT\n|\nDisclose invention\n+\nStatutory protection\n+\nGenerally 20 years"]
+    B["TRADE SECRET\n|\nKeep information secret\n+\nConfidentiality-based protection\n+\nPotentially indefinite"]
 ```
 
 🧠 **Memory Trick**
@@ -507,14 +507,14 @@ If you have very little time before the exam, remember these **core points.**
 Everything in these slides can be mentally connected like this:
 ```mermaid
 flowchart TD
-    A[PATENT] --> B[PROTECTION\n|\nTechnical invention]
-    A --> C[INFRINGEMENT\n|\nUnauthorized act]
+    A[PATENT] --> B["PROTECTION\n|\nTechnical invention"]
+    A --> C["INFRINGEMENT\n|\nUnauthorized act"]
     A --> D["PROCESS\n|\nIdea -> Search -> Application -> Filing -> Publication -> Examination -> FER/Response -> Grant"]
     
     C --> E[Claims determine scope of protection]
     
-    B --> F[SOFTWARE\n|\nSection 3(k)\n|\nGenerally excluded if merely a computer program]
-    B --> G[AI\n|\nTechnical contribution\n|\nPatentability requirements]
+    B --> F["SOFTWARE\n|\nSection 3(k)\n|\nGenerally excluded if merely a computer program"]
+    B --> G["AI\n|\nTechnical contribution\n|\nPatentability requirements"]
 ```
 
 ## 🧠 Final Memory Story
