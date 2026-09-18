@@ -545,23 +545,49 @@ For maximum marks, these are the **high-value keywords** from all your slides:
 ## 🧠 Ultimate Mindmap: Importance of IPR
 ```mermaid
 mindmap
-  root((Importance))
-    Economic
+  root((Importance of IPR))
+    Core Benefits
+      Protects Intellectual Creations
+      Encourages Innovation
+      Promotes R&D
+      Creates Competitive Advantage
+    Economic Value
       Direct Sales
       Licensing
+        Permission to use
       Royalties
-      Technology Transfer
-    Innovation
-      Encourages R&D
-      Recovers Investment
-      Startup Valuation
-    Protection
-      Brand Reputation
-      Prevents Piracy
-      Stops Counterfeiting
-    Stakeholders
-      Inventors
-      Businesses
-      Society
+      Assignment
+        Transfer ownership
+      Franchising
+    Technology Transfer
+      Universities to Industry
+      Commercial Applications
+    Startups & Business
+      Attracting Investors
+      Building Business Value
+      Market Differentiation
+      Asset Mapping
+        Tech to Patent
+        Brand to TM
+        Code to Copyright
+    Brand Protection
+      Prevents Consumer Confusion
+      Builds Customer Trust
+      Protects Goodwill
+    Enforcement
+      Piracy
+        Copying creative works
+        Copyright focus
+      Counterfeiting
+        Faking branded goods
+        Trademark focus
+    Stakeholder Benefits
+      Inventors & Researchers
+        Recognition & Commercialization
+      Artists & Authors
+        Royalties & Protection
       Consumers
+        Brand Authenticity
+      Society & Govt
+        Tech & Economic Development
 ```
