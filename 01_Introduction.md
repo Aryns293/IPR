@@ -665,25 +665,77 @@ you can reconstruct almost the **entire chapter** in the exam.
 ```mermaid
 mindmap
   root((IPR))
-    Concepts
-      Intellectual Property
-      Creations of Mind
-      Intangible Assets
+    Definitions
+      IP
+        Valuable creations of mind
+        Intangible assets
+      IPR
+        Legal protection for IP
+        Exclusive rights
+      IP vs IPR
+        IP is creation
+        IPR is legal right
+      WIPO Definition
+        Inventions
+        Literary & Artistic
+        Designs
+        Symbols & Names
+    Characteristics
+      Intangible Nature
+      Exclusive Rights
+      Territorial Protection
+      Limited Duration
+      Transferable
+        Sale
+        Assignment
+        License
       Legal Protection
-    Types
-      Patents
-      Trademarks
-      Copyrights
-      Industrial Designs
-      Geographical Indications
-      Trade Secrets
-    Objectives
+      Commercial Value
+    Types of IPR
+      Patent
+        Inventions
+      Trademark
+        Brand identity
+      Copyright
+        Creative expression
+      Industrial Design
+        Visual appearance
+      Geographical Indication
+        Geographical origin
+      Trade Secret
+        Confidential info
+      Plant Variety
+        New breeds
+    Objectives & Need
       Encourage Innovation
       Reward Creators
-      Economic Development
-      Technology Transfer
+      Prevent Unauthorized Use
+      Tech Transfer
+      Economic Growth
+      Fair Competition
+    Advantages
+      For Individuals
+        Recognition
+        Financial Reward
+        Motivation
+      For Businesses
+        Brand Protection
+        Competitive Edge
+        Market Value
+      For Society
+        Tech Advancement
+        Consumer Protection
+        Jobs
+    Limitations
+      Expensive Registration
+      Costly Enforcement
+      Limited Duration
+      Territorial Limits
+      Restricts Competition
     Digital Era
-      Software
-      AI
+      Software & AI
+      Apps & Websites
       Digital Content
+      E-commerce Brands
+      Databases & Cloud
 ```
