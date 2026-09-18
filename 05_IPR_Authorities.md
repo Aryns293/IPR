@@ -519,3 +519,24 @@ Copyright Registration + Register of Copyrights + Literary + Artistic + Musical 
 
 **IPAB**
 Appeals + Abolished in 2021 + Tribunals Reforms Act + Functions transferred
+
+
+## 🧠 Ultimate Mindmap: IPR Authorities
+```mermaid
+mindmap
+  root((Authorities))
+    International
+      WIPO
+        PCT
+        Madrid
+        Hague
+      WTO TRIPS
+    India
+      DPIIT
+      CGPDTM
+      Patent Office
+      Trade Marks Registry
+      Designs Wing
+      GI Registry
+      Copyright Office
+```

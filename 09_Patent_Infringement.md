@@ -551,3 +551,30 @@ And finally:
 *   **Trade secret = secrecy**
 
 That gives you the complete conceptual structure of all 18 slides!
+
+
+## 🧠 Ultimate Mindmap: Patent Infringement
+```mermaid
+mindmap
+  root((Infringement))
+    Types
+      Direct
+      Indirect
+      Literal
+      Equivalents
+    Action
+      Injunction
+      Damages
+      Account of Profits
+    Defenses
+      Invalidity
+      No Infringement
+      Exceptions
+      Exhaustion
+    Patent Agents
+      Prepare & File
+      Prosecution
+    Software & AI
+      Section 3k
+      Technical Contribution
+```

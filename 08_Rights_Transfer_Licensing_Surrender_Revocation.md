@@ -646,3 +646,27 @@ And for revocation:
 * **IPAB abolished in 2021**
 
 That is the complete conceptual structure of all 9 slides you attached.
+
+
+## 🧠 Ultimate Mindmap: Rights, Transfer & Revocation
+```mermaid
+mindmap
+  root((Transfer & Revocation))
+    Transfer
+      Assignment
+        Total or Partial
+        Ownership Changes
+      Licensing
+        Voluntary
+        Statutory
+        Compulsory
+        Permission to Use
+    Ending Rights
+      Surrender
+        Voluntary return
+      Revocation
+        Invalidity
+        Non-working
+        Public Interest
+        Security
+```

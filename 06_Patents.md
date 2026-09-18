@@ -365,3 +365,31 @@ flowchart TD
     F --> G[2005\nPRODUCT PATENT PROTECTION in areas where TRIPS required it]
     G --> H[CURRENT REGIME\nPatents Act, 1970 as amended from time to time]
 ```
+
+
+## 🧠 Ultimate Mindmap: Patents
+```mermaid
+mindmap
+  root((Patents))
+    Definition
+      Technical Invention
+      Exclusive Rights
+      20 Years
+    Criteria
+      Novelty
+      Inventive Step
+      Industrial Applicability
+    Sections 3 & 4
+      Frivolous Inventions
+      Contrary to Morality
+      Mere Discovery
+      Substances by Admixture
+      Agricultural Methods
+      Atomic Energy
+    Rights
+      Make
+      Use
+      Sell
+      License
+      Assign
+```

@@ -540,3 +540,28 @@ For maximum marks, these are the **high-value keywords** from all your slides:
 
 **Brand**
 * Trademark
+
+
+## 🧠 Ultimate Mindmap: Importance of IPR
+```mermaid
+mindmap
+  root((Importance))
+    Economic
+      Direct Sales
+      Licensing
+      Royalties
+      Technology Transfer
+    Innovation
+      Encourages R&D
+      Recovers Investment
+      Startup Valuation
+    Protection
+      Brand Reputation
+      Prevents Piracy
+      Stops Counterfeiting
+    Stakeholders
+      Inventors
+      Businesses
+      Society
+      Consumers
+```

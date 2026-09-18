@@ -480,3 +480,26 @@ flowchart TD
 * **3I** → Treatment
 * **3K** → Math/Business/Computer/Algorithm
 * **4** → Atomic
+
+
+## 🧠 Ultimate Mindmap: Patent Procedure
+```mermaid
+mindmap
+  root((Procedure))
+    Application
+      Provisional
+      Complete
+      Publication
+    Examination
+      Request for Exam
+      First Examination Report FER
+      Response
+    Grant
+      Pre-grant Opposition
+      Post-grant Opposition
+      Patent Certificate
+    Rights
+      Exclusive Commercial Use
+      Transfer
+      Surrender
+```

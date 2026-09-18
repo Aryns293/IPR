@@ -659,3 +659,31 @@ flowchart TD
 If you remember that formula plus:
 **"Patent–Invention, Trademark–Brand, Copyright–Creative Work, Design–Appearance, GI–Place, Trade Secret–Secret, Plant Variety–Plant"**
 you can reconstruct almost the **entire chapter** in the exam.
+
+
+## 🧠 Ultimate Mindmap: Introduction to IPR
+```mermaid
+mindmap
+  root((IPR))
+    Concepts
+      Intellectual Property
+      Creations of Mind
+      Intangible Assets
+      Legal Protection
+    Types
+      Patents
+      Trademarks
+      Copyrights
+      Industrial Designs
+      Geographical Indications
+      Trade Secrets
+    Objectives
+      Encourage Innovation
+      Reward Creators
+      Economic Development
+      Technology Transfer
+    Digital Era
+      Software
+      AI
+      Digital Content
+```

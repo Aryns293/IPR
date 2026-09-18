@@ -730,3 +730,33 @@ And for the smartphone example:
 * **Appearance → Industrial Design**
 
 If you remember these three blocks, you can reconstruct most of the answers from the slides during the exam.
+
+
+## 🧠 Ultimate Mindmap: Types of IPR
+```mermaid
+mindmap
+  root((Types of IPR))
+    Patent
+      Inventions
+      Novelty
+      Inventive Step
+      Industrial Applicability
+      20 Years
+    Trademark
+      Brand Identity
+      Logos
+      Names
+      10 Years Renewable
+    Copyright
+      Creative Expression
+      Books, Music, Software
+      Life + 60 Years
+    Industrial Design
+      Visual Appearance
+      Shape, Pattern
+      10 + 5 Years
+    Others
+      Geographical Indications
+      Trade Secrets
+      Plant Varieties
+```

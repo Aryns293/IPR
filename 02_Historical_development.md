@@ -960,3 +960,23 @@ flowchart TD
 * **2005** — Product Patents in India
 
 If you remember those **8 milestones + what each one did**, you can reconstruct most answers from this entire set of slides.
+
+
+## 🧠 Ultimate Mindmap: Historical Development
+```mermaid
+mindmap
+  root((History of IPR))
+    International
+      1624 Statute of Monopolies
+      1710 Statute of Anne
+      1883 Paris Convention
+      1886 Berne Convention
+      1967 WIPO
+      1995 TRIPS
+    India
+      1856 First Patent Law
+      1911 Patents & Designs Act
+      1970 Patents Act
+      1999 Trade Marks Act
+      2005 Patent Amendment
+```
