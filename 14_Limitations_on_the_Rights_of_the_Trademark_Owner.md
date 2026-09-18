@@ -197,29 +197,41 @@ flowchart LR
 
 > Therefore, the rights of a registered trademark proprietor are **not absolute**. **Sections 33–36** recognise important limitations based on **acquiescence, prior continuous use, bona fide use of names/addresses/descriptions, and use of descriptive words**. These provisions balance the exclusive rights of trademark owners with the legitimate interests of other traders and users.
 
-## 🧠 Ultimate Mindmap 1: Acquiescence & Prior Use (Sec 33-34)
+## 🧠 Ultimate Mindmap 1: Acquiescence (Sec 33)
 ```mermaid
 mindmap
-  root((Limitations Part 1))
-    Section 33 Acquiescence
+  root((Section 33))
+    Acquiescence
       5 continuous years
       Knowledge and silence
       Owner loses right to object
-    Section 34 Prior Use
+```
+
+## 🧠 Ultimate Mindmap 2: Prior Use (Sec 34)
+```mermaid
+mindmap
+  root((Section 34))
+    Prior Use
       Continuous prior use
       Before registered mark
       Earlier user protected
 ```
 
-## 🧠 Ultimate Mindmap 2: Name & Descriptive Words (Sec 35-36)
+## 🧠 Ultimate Mindmap 3: Own Name (Sec 35)
 ```mermaid
 mindmap
-  root((Limitations Part 2))
-    Section 35 Own Name
+  root((Section 35))
+    Own Name
       Bona Fide use
       Own name or address
       Description of goods
-    Section 36 Descriptive Words
+```
+
+## 🧠 Ultimate Mindmap 4: Descriptive Words (Sec 36)
+```mermaid
+mindmap
+  root((Section 36))
+    Descriptive Words
       Cannot monopolise common words
       Exception Acquired Distinctiveness
 ```
