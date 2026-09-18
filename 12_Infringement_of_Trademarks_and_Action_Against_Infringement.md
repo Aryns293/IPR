@@ -254,15 +254,25 @@ And remember:
 > **Trademark infringement** means the **unauthorised use of a registered trademark** by a person who is **not the registered proprietor or authorised user**, in the course of trade, in circumstances covered by the Trade Marks Act, 1999. Under **Section 29**, use of an **identical or deceptively similar mark** may constitute infringement. **Section 29(2)** particularly deals with situations involving **likelihood of confusion or false association** among consumers. **Section 29(4)** covers use of an identical or similar mark in relation to **different goods or services**, where such use causes **harm to the distinctive character** of the registered trademark. The trademark owner can initiate **civil legal proceedings** to restrain unauthorised use and seek appropriate legal relief, including **damages** where applicable.
 
 
-## 🧠 Ultimate Mindmap 1: The Core of Infringement
+## 🧠 Ultimate Mindmap 1: Essentials & Internet Use
 ```mermaid
 mindmap
-  root((Infringement))
+  root((Infringement Pt 1))
     Essentials
       Unauthorised Use
       Identical or Similar Mark
       Course of Trade
       Registered Mark
+    Internet Use
+      Mere display is not enough
+      Manner of use matters
+      Creates false affiliation
+```
+
+## 🧠 Ultimate Mindmap 2: Consequences & Remedies
+```mermaid
+mindmap
+  root((Infringement Pt 2))
     Consequences
       Consumer Confusion
       False Association
@@ -272,16 +282,12 @@ mindmap
       Civil Legal Proceedings
       Stop Unauthorised Use
       Claim Damages
-    Internet Use
-      Mere display is not enough
-      Manner of use matters
-      Creates false affiliation
 ```
 
-## 🧠 Ultimate Mindmap 2: Section 29 Breakdown
+## 🧠 Ultimate Mindmap 3: Section 29(2) vs 29(4)
 ```mermaid
 mindmap
-  root((Section 29))
+  root((Section 29 Rules))
     Section 29 2 Related Goods
       Identical or Similar Mark
       Likelihood of Confusion
@@ -292,7 +298,13 @@ mindmap
       Different Goods or Services
       Harm to Distinctive Character
       IDH Trick
-    Key Terms
+```
+
+## 🧠 Ultimate Mindmap 4: Key Terms
+```mermaid
+mindmap
+  root((Key Terms))
+    Definitions
       Deceptively Similar
       Unauthorised Use
       Course of Trade
