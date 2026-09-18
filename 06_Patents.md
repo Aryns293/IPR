@@ -373,23 +373,41 @@ mindmap
   root((Patents))
     Definition
       Technical Invention
+      Government Grant
       Exclusive Rights
-      20 Years
-    Criteria
+        Make, Use, Sell, Import
+      20 Years Term
+    Importance
+      For Inventors
+        Protection & Royalties
+      For Industry
+        Competitive Advantage
+      For Society
+        Disclosure & Innovation
+    What it Protects
+      Product Inventions
+      Process Inventions
+      Technical Improvements
+    Patentability Criteria
       Novelty
+        New vs Prior Art
       Inventive Step
+        Non-obvious
       Industrial Applicability
-    Sections 3 & 4
-      Frivolous Inventions
-      Contrary to Morality
-      Mere Discovery
-      Substances by Admixture
-      Agricultural Methods
-      Atomic Energy
-    Rights
-      Make
-      Use
-      Sell
-      License
-      Assign
+        Practical Use
+      Not Excluded Subject Matter
+        Sections 3 & 4
+        Atomic Energy
+        Agricultural Methods
+        Mere Discovery
+        Frivolous Inventions
+        Contrary to Morality
+    Indian Patent Law History
+      1970 Patents Act
+        Process patents focus
+      2002 Amendment
+        TRIPS alignment
+        18-month publication
+      2005 Amendment
+        Product patents introduced
 ```
