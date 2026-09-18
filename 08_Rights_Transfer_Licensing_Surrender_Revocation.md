@@ -648,25 +648,85 @@ And for revocation:
 That is the complete conceptual structure of all 9 slides you attached.
 
 
-## 🧠 Ultimate Mindmap: Rights, Transfer & Revocation
+## 🧠 Ultimate Mindmap 1: Rights of a Patentee
 ```mermaid
 mindmap
-  root((Transfer & Revocation))
-    Transfer
-      Assignment
-        Total or Partial
-        Ownership Changes
-      Licensing
-        Voluntary
-        Statutory
-        Compulsory
-        Permission to Use
-    Ending Rights
-      Surrender
-        Voluntary return
-      Revocation
-        Invalidity
-        Non-working
-        Public Interest
-        Security
+  root((Patent Rights))
+    Nature of Rights
+      Exclusive
+      Not Absolute
+      Subject to Limitations
+    Product Patent
+      Prevents Unauthorized
+      Making
+      Using
+      Offering for Sale
+      Selling
+      Importing
+    Process Patent
+      Prevents Unauthorized
+      Use of Process
+      Products directly obtained
+    Commercial Rights
+      Commercialize
+      License
+      Assign
+      Business Asset
+      Technology Transfer
+      Legal Remedies
+```
+
+## 🧠 Ultimate Mindmap 2: Transfer & Licensing
+```mermaid
+mindmap
+  root((Transfer & Licensing))
+    Assignment
+      Ownership Moves
+      Transferred to Assignee
+      Lump Sum Payment
+    Licensing
+      Ownership Stays
+      Permission to Use
+      Royalty Payments
+      Types of Licenses
+        Exclusive One Licensee
+        Non exclusive Multiple
+        Voluntary By Owner
+        Compulsory Statutory
+    Compulsory Licensing
+      Statutory Conditions
+      Competent Authority
+      Factors
+        Public requirements unmet
+        Not affordable
+        Not worked in India
+      Purpose
+        Balance Rights vs Public Interest
+```
+
+## 🧠 Ultimate Mindmap 3: Surrender & Revocation
+```mermaid
+mindmap
+  root((Ending Rights))
+    Surrender
+      Patentee Initiates
+      Voluntary
+      Process
+        Request
+        Controller Examines
+        Opposition Opportunity
+        Decision
+    Revocation
+      Cancellation
+      Statutory Grounds
+        Lack of Novelty
+        Lack of Inventive Step
+        Not Patentable Subject
+        Wrongful Obtaining
+        Insufficient Disclosure
+        Fraud
+        Statutory Non compliance
+      Authority
+        High Court
+        IPAB Abolished 2021
 ```
