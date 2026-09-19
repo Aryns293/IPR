@@ -101,3 +101,38 @@ This is a very common exam question!
 > 🧠 **Memory Trick:**
 > **Patent** = Invention = 20 Years = Registration Required
 > **Copyright** = Creativity = Life + 60 Years = Automatic
+
+---
+
+## 🧠 Ultimate Chapter Mindmap for Quick Revision
+
+```mermaid
+mindmap
+  root((PATENT INFRINGEMENT))
+    Meaning
+      Unauthorized Use
+      Manufacture
+      Sell
+      Import
+    Types (DILE)
+      Direct
+      Indirect
+      Literal
+      Equivalents
+    Court Actions (IDAS)
+      Injunction
+      Damages
+      Account of Profits
+      Seizure
+    Defenses
+      Patent is Invalid
+      No Infringement
+      Outside Claims
+      Statutory Exception
+    Limitations (ETLTP)
+      Expensive
+      Time-consuming
+      Limited Duration
+      Territorial
+      Public Disclosure
+```
